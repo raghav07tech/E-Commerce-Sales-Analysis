@@ -33,14 +33,14 @@ This project analyzes e-commerce sales data to identify revenue trends, top-perf
 - **Highest Transaction:** ₹496.82
 - **Lowest Transaction:** ₹5.89
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - **Python** (pandas, matplotlib, seaborn)
 - **Data Cleaning & Preprocessing**
 - **Exploratory Data Analysis (EDA)**
 - **Data Visualization**
 - **Google Colab**
 
-## 📁 Project Files
+## Project Files
 
 | File | Description |
 |------|-------------|
@@ -75,7 +75,7 @@ This project analyzes e-commerce sales data to identify revenue trends, top-perf
   - Transaction amount distribution
   - Key business metrics summary
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. **Clothing & Books** are revenue drivers - allocate more inventory
 2. **Month 10 peak sales** - investigate what drove it and replicate the strategy
@@ -83,19 +83,12 @@ This project analyzes e-commerce sales data to identify revenue trends, top-perf
 4. **Discount strategy** - average 18.83% might be impacting margins; review pricing
 5. **Customer retention** - focus on repeat purchases to increase average spending
 
-## 🔍 How to Use This Project
 
 ### View Results
 - Open `ecommerce_sales_dashboard.png` to see visualizations
 - Read `Sales_Analysis_Report.txt` for detailed metrics
 - Check `cleaned_ecommerce_data.csv` for raw analyzed data
 
-### Run the Analysis
-If you want to reproduce this analysis:
-1. Use Google Colab (colab.research.google.com)
-2. Upload your e-commerce dataset
-3. Run the Python analysis code
-4. Generate charts and reports
 
 ## Skills Demonstrated
 

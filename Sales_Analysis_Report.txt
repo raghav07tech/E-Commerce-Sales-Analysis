@@ -1,0 +1,77 @@
+
+================================================================================
+                    E-COMMERCE SALES ANALYSIS REPORT
+================================================================================
+
+PROJECT OVERVIEW:
+This project analyzes e-commerce sales data to identify revenue trends, 
+top-performing categories, and customer behavior patterns.
+
+================================================================================
+1. BUSINESS METRICS
+================================================================================
+Total Revenue:              ₹757,278.08
+Total Transactions:         3,660
+Total Customers:            3,660
+Total Products:             3,660
+Average Transaction Value:  ₹206.91
+
+================================================================================
+2. TOP PERFORMING CATEGORIES
+================================================================================
+1. Clothing: ₹115,314.84
+2. Books: ₹111,149.35
+3. Home & Kitchen: ₹110,328.08
+4. Sports: ₹108,518.79
+5. Toys: ₹107,289.69
+6. Beauty: ₹104,215.10
+7. Electronics: ₹100,462.23
+
+================================================================================
+3. PAYMENT METHOD ANALYSIS
+================================================================================
+Credit Card: 760 transactions (20.8%) | Revenue: ₹156,018.02
+UPI: 757 transactions (20.7%) | Revenue: ₹154,684.81
+Debit Card: 731 transactions (20.0%) | Revenue: ₹153,362.26
+Net Banking: 716 transactions (19.6%) | Revenue: ₹146,804.40
+Cash on Delivery: 696 transactions (19.0%) | Revenue: ₹146,408.59
+
+================================================================================
+4. DISCOUNT ANALYSIS
+================================================================================
+Average Discount:           18.83%
+Maximum Discount:           50%
+Minimum Discount:           0%
+
+================================================================================
+5. MONTHLY SALES TREND
+================================================================================
+Month 1: ₹69,009.43
+Month 2: ₹69,186.34
+Month 3: ₹71,325.40
+Month 4: ₹74,365.13
+Month 5: ₹68,837.25
+Month 6: ₹64,256.66
+Month 7: ₹72,798.23
+Month 8: ₹71,506.96
+Month 9: ₹68,043.09
+Month 10: ₹76,034.51
+Month 11: ₹51,915.08
+
+================================================================================
+6. CUSTOMER INSIGHTS
+================================================================================
+Average Customer Spending:  ₹206.91
+Highest Customer Spending:  ₹496.82
+Lowest Customer Spending:   ₹5.89
+
+================================================================================
+7. KEY FINDINGS & RECOMMENDATIONS
+================================================================================
+✓ Clothing is the top revenue-generating category
+✓ Monthly sales are consistent (₹51K-₹76K per month)
+✓ Credit Card is the preferred payment method (20.8%)
+✓ Average discount is 18.83% - impacting margins
+✓ Month 10 had the highest sales - opportunity to replicate that strategy
+
+================================================================================

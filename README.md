@@ -48,6 +48,7 @@ This project analyzes e-commerce sales data to identify revenue trends, top-perf
 | `ecommerce_sales_dashboard.png` | 6-chart visualization dashboard |
 | `Sales_Analysis_Report.txt` | Detailed analysis report with all metrics |
 | `README.md` | Project documentation (this file) |
+|'Python_code.ipynb'| project python code|
 
 ## 📊 Analysis Methodology
 
